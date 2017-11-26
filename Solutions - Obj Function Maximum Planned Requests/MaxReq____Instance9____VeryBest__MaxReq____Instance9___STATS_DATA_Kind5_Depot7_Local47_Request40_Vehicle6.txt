@@ -1,0 +1,29 @@
+ 
+ ---------((( DISPLAY ROUTES : FINAL BEST <<Total Req: 40 >>  )))---------
+1) VEHI: 6 Kd: 3 StrD: 2 EdD: 3 StrT: 480 EdT: 960 Seq ID: ;3;1;6;2;0;7;23;12;21;5; * Local ;38;39;43;35;44;37;16;34;28;20;
+     1) Request 4 LocalREQ: 38 SrtREQ: 501 EndREQ: 501
+     2) Request 2 LocalREQ: 39 SrtREQ: 523 EndREQ: 528
+     3) Request 7 LocalREQ: 43 SrtREQ: 554 EndREQ: 558
+     4) Request 3 LocalREQ: 35 SrtREQ: 591 EndREQ: 594
+     5) Request 1 LocalREQ: 44 SrtREQ: 633 EndREQ: 639
+     6) Request 8 LocalREQ: 37 SrtREQ: 663 EndREQ: 671
+     7) Request 24 LocalREQ: 16 SrtREQ: 698 EndREQ: 698
+     8) Request 13 LocalREQ: 34 SrtREQ: 733 EndREQ: 741
+     9) Request 22 LocalREQ: 28 SrtREQ: 780 EndREQ: 795
+     10) Request 6 LocalREQ: 20 SrtREQ: 849 EndREQ: 853
+
+
+2) VEHI: 5 Kd: 2 StrD: 5 EdD: 1 StrT: 480 EdT: 960 Seq ID: ;37;29;15;28;26;30; * Local ;15;33;7;8;46;27;
+     1) Request 38 LocalREQ: 15 SrtREQ: 502 EndREQ: 506
+     2) Request 30 LocalREQ: 33 SrtREQ: 573 EndREQ: 573
+     3) Request 16 LocalREQ: 7 SrtREQ: 594 EndREQ: 596
+     4) Request 29 LocalREQ: 8 SrtREQ: 667 EndREQ: 671
+     5) Request 27 LocalREQ: 46 SrtREQ: 728 EndREQ: 743
+     6) Request 31 LocalREQ: 27 SrtREQ: 816 EndREQ: 822
+
+
+3) VEHI: 2 Kd: 1 StrD: 1 EdD: 1 StrT: 420 EdT: 1080 Seq ID: ; * Local ;
+
+
+  ::: Total Request: 40   Planned: 16   Unplanned: 24  :::
+

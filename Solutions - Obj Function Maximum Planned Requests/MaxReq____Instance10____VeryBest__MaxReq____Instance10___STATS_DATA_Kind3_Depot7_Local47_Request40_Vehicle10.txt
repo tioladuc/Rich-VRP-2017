@@ -1,0 +1,49 @@
+ 
+ ---------((( DISPLAY ROUTES : FINAL BEST <<Total Req: 40 >>  )))---------
+1) VEHI: 10 Kd: 1 StrD: 4 EdD: 4 StrT: 420 EdT: 1020 Seq ID: ;10;2;23;0; * Local ;42;33;31;26;
+     1) Request 11 LocalREQ: 42 SrtREQ: 479 EndREQ: 498
+     2) Request 3 LocalREQ: 33 SrtREQ: 577 EndREQ: 585
+     3) Request 24 LocalREQ: 31 SrtREQ: 695 EndREQ: 696
+     4) Request 1 LocalREQ: 26 SrtREQ: 780 EndREQ: 781
+
+
+2) VEHI: 7 Kd: 1 StrD: 3 EdD: 6 StrT: 420 EdT: 1020 Seq ID: ;13;29;16;26; * Local ;46;27;39;25;
+     1) Request 14 LocalREQ: 46 SrtREQ: 481 EndREQ: 511
+     2) Request 30 LocalREQ: 27 SrtREQ: 579 EndREQ: 609
+     3) Request 17 LocalREQ: 39 SrtREQ: 658 EndREQ: 660
+     4) Request 27 LocalREQ: 25 SrtREQ: 797 EndREQ: 798
+
+
+3) VEHI: 9 Kd: 1 StrD: 6 EdD: 4 StrT: 420 EdT: 1020 Seq ID: ;37;11;32;22; * Local ;8;23;16;35;
+     1) Request 38 LocalREQ: 8 SrtREQ: 456 EndREQ: 458
+     2) Request 12 LocalREQ: 23 SrtREQ: 568 EndREQ: 596
+     3) Request 33 LocalREQ: 16 SrtREQ: 665 EndREQ: 671
+     4) Request 23 LocalREQ: 35 SrtREQ: 798 EndREQ: 814
+
+
+4) VEHI: 8 Kd: 0 StrD: 2 EdD: 2 StrT: 480 EdT: 1080 Seq ID: ;12;24;34;21; * Local ;36;41;12;13;
+     1) Request 13 LocalREQ: 36 SrtREQ: 535 EndREQ: 543
+     2) Request 25 LocalREQ: 41 SrtREQ: 626 EndREQ: 628
+     3) Request 35 LocalREQ: 12 SrtREQ: 736 EndREQ: 738
+     4) Request 22 LocalREQ: 13 SrtREQ: 853 EndREQ: 893
+
+
+5) VEHI: 5 Kd: 1 StrD: 2 EdD: 2 StrT: 420 EdT: 1080 Seq ID: ; * Local ;
+
+
+6) VEHI: 1 Kd: 1 StrD: 5 EdD: 6 StrT: 480 EdT: 960 Seq ID: ;33;35;14;25; * Local ;14;11;20;28;
+     1) Request 34 LocalREQ: 14 SrtREQ: 531 EndREQ: 535
+     2) Request 36 LocalREQ: 11 SrtREQ: 609 EndREQ: 610
+     3) Request 15 LocalREQ: 20 SrtREQ: 680 EndREQ: 682
+     4) Request 26 LocalREQ: 28 SrtREQ: 765 EndREQ: 784
+
+
+7) VEHI: 2 Kd: 1 StrD: 2 EdD: 0 StrT: 360 EdT: 1020 Seq ID: ;39;31;28;30; * Local ;9;19;10;17;
+     1) Request 40 LocalREQ: 9 SrtREQ: 415 EndREQ: 428
+     2) Request 32 LocalREQ: 19 SrtREQ: 522 EndREQ: 524
+     3) Request 29 LocalREQ: 10 SrtREQ: 547 EndREQ: 574
+     4) Request 31 LocalREQ: 17 SrtREQ: 741 EndREQ: 743
+
+
+  ::: Total Request: 40   Planned: 24   Unplanned: 16  :::
+
